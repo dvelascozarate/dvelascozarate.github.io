@@ -96,13 +96,14 @@ ul li div img{
 }
 
 @media only screen and (max-width: 720px){
-    #title{
-        position: relative;
-        margin: 0px;
-    }
     
     header div img{
         width: 300px;
+    }
+    
+    #title{
+        position: relative;
+        margin: 0px;
     }
     
     header{
