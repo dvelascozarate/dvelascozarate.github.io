@@ -103,7 +103,7 @@ ul li div img {
     text-align: center;
 }
 
-@media only screen and (max-width: 715px) {
+/*@media only screen and (max-width: 715px) {
 
     header div img {
         width: 300px;
@@ -119,9 +119,9 @@ ul li div img {
     header {
         height: auto;
     }
-}
+}*/
 
-/*@media only screen and (max-width: 303px) {
+@media only screen and (max-width: 715px) {
 
     header div img {
         width: 80%;
@@ -139,4 +139,4 @@ ul li div img {
     #tecmilenio-container img {
         width: 100%;
     }
-}*/
+}
