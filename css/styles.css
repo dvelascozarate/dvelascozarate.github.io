@@ -121,7 +121,7 @@ ul li div img {
     }
 }
 
-@media only screen and (max-width: 303px) {
+/*@media only screen and (max-width: 303px) {
 
     header div img {
         width: 80%;
@@ -139,4 +139,4 @@ ul li div img {
     #tecmilenio-container img {
         width: 100%;
     }
-}
+}*/
